@@ -22,10 +22,13 @@ The best way to play Diep.io without lag or distractions.
 ## FAQ
 
 Q. The file randomly got removed. What do I do?
+
 A. Add the directory as an exclusion in your antivirus.
 
 Q. I can't play at all.
+
 A. Download the [WebView2 Runtime](https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/c37ab6cc-86af-417e-a4d5-f9bfa9815bd6/MicrosoftEdgeWebView2RuntimeInstallerX86.exe) and run it.
 
 Q. My computer can't open the file at all.
+
 A. If you're using x32 in Windows 11 or older versions, that's probably the reason why.
